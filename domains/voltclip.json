@@ -1,0 +1,11 @@
+{
+  "description": "VoltClip - Plateforme vidéo",
+  "repo": "https://github.com/voltclip/Voltclip-",
+  "owner": {
+    "username": "voltclip",
+    "email": "hervecaporale17@gmail.com"
+  },
+  "record": {
+    "CNAME": "voltclip.github.io"
+  }
+}
